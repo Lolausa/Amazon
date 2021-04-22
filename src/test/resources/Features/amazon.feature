@@ -1,3 +1,4 @@
+@smoke
 Feature: User should be able to go to Amazon page
 
   Scenario: User is on Amazon page
